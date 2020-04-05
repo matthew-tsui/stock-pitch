@@ -1,3 +1,3 @@
 # blackrock-stock-pitch-challenge
 
-Portfolio optimization: completed
+Portfolio optimization with effiencent frontier
